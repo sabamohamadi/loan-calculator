@@ -7,3 +7,8 @@ II. File list
 ------------
 #index.html = css , html , bootstrap code , 
 #app.js = javascript code
+
+III. Install
+------------
+1- create img folder at the root of project and download the gif file from this link , you have to rename that to 'loading-45.gif' if its name isn't that :
+https://usagif.com/wp-content/uploads/loading-45.gif
